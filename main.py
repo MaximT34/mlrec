@@ -1,5 +1,4 @@
 import pickle
-import sklearn
 import flask
 import pandas as pd
 from flask import jsonify, request
